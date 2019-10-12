@@ -18,3 +18,18 @@
 .container{
     text-align: center;
 }
+
+.top-nav{
+    border:1px solid black;
+    height:30px;
+}
+
+.main-content{
+    border: 1px solid black;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.side-nav{
+    border:1px solid black;
+}
